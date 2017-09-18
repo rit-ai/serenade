@@ -1,2 +1,5 @@
 # serenade
 Let's see if we can do fun things with music
+
+# dataset
+We're going to start with the GTZAN dataset which can be downloaded here: http://marsyasweb.appspot.com/download/data_sets/
