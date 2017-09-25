@@ -6,3 +6,6 @@ We're going to start with the GTZAN dataset which can be downloaded here: http:/
 
 # Installation
 Run `pip install -r requirements.txt`
+
+# Contributors
+- Josh Miller, jxm7374@rit.edu
