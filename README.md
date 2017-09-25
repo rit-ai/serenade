@@ -9,3 +9,4 @@ Run `pip install -r requirements.txt`
 
 # Contributors
 - Josh Miller, jxm7374@rit.edu
+- Nathan Baker, njb4082@rit.edu
