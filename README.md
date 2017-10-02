@@ -14,3 +14,4 @@ Run `pip install -r requirements.txt`
 - Blake Costa, bac5899@g.rit.edu
 - Anthony Cuzzi, aic6318@rit.edu
 - Vrishabh Lakhani, val3917@rit.edu
+- Dylan Bowald, dtb6369@rit.edu
